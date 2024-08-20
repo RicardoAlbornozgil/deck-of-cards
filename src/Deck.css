@@ -16,7 +16,7 @@
 
 .card {
     position: absolute;
-    top: 50%;
+    top: 25%;
     left: 50%;
     transform: translate(-50%, -50%) rotate(var(--rotate, 0deg));
     transition: transform 0.3s ease;
